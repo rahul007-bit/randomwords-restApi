@@ -13,3 +13,4 @@ To start the Api follow the step given below
  
  5.Run the application
     "flask run"
+or refer this link https://dzone.com/articles/python-flask-code-generator
